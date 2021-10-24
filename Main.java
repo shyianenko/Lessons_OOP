@@ -27,7 +27,6 @@ public class Main {
 			student.setId(sc.nextLong());
 			System.out.println("Input students Group name");
 			student.setGroupName(sc.next());
-			//Yesgroup.addStudent(student);
 			
 			group.addStudent(student);
 
